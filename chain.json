@@ -45,7 +45,7 @@
 		"type": "evm"
 	},
 	{
-		"id": 3,
+		"id": 4,
 		"name": "Optimism Goerli",
 		"icon": "op",
 		"nativeCurrency": {
