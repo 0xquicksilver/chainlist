@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Ethereum",
+		"icon": "eth",
+		"nativeCurrency": {
+			"name": "ethereum",
+			"symbol": "eth",
+			"decimals": 18
+		},
+		"explorer": "https://etherscan.io/",
+		"rpc": ["https://mainnet.infura.io/v3/INFURA_KEY"],
+		"chainId": 1,
+		"networkId": 1,
+		"network": "mainnet",
+		"type": "evm"
+	},
+	{
+		"name": "Ethereum",
+		"icon": "eth",
+		"nativeCurrency": {
+			"name": "ethereum",
+			"symbol": "eth",
+			"decimals": 18
+		},
+		"explorer": "https://goerli.etherscan.io/",
+		"rpc": ["https://goerli.infura.io/v3/INFURA_KEY"],
+		"chainId": 5,
+		"networkId": 5,
+		"network": "goerli",
+		"type": "evm"
+	}
+]
